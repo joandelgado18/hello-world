@@ -1,2 +1,2 @@
 # hello-world
-Mi first repository
+El primer repositorio de Joan Delgado
